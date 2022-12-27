@@ -1,16 +1,3 @@
-/*
- * Theme: Zoovara - Personal Template
- * Author: Mannatthemes
- * File: Main Css File
- */
-/*
-1. Variables
-2. Buttons
-3. Text Color
-4. Background Color
-5. General
-6. Print
-*/
 @import url("https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,500,600,700&display=swap");
 .btn {
   border-radius: 3px;
